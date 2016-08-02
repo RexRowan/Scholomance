@@ -6,9 +6,18 @@ body {
   background-attachment: fixed;
 }
 
-div.relative {
-    position: relative;
-  top: 430px;
-  left: 510px;
-   
+.container {
+  width: 538px;
+}
+section,
+aside {
+  margin: 10px;
+}
+section {
+  float: left;
+  width: 340px;
+}
+aside {
+  float: right;
+  width: 158px;
 }
