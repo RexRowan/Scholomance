@@ -6,7 +6,7 @@ body {
   background-attachment: fixed;
 }
 
-div.relative {
+div.static {
     position: relative;
   top: 440px;
   left: 540px;
