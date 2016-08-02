@@ -6,6 +6,6 @@ body {
   background-attachment: fixed;
 }
 
-button {
+.button {
   position: 50% 100%;
 }
