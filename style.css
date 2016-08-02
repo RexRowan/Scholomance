@@ -5,3 +5,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+
+button {
+  position: 50% 100%;
+}
