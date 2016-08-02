@@ -14,10 +14,10 @@ aside {
   margin: 10px;
 }
 section {
-  float: left;
+  float: bottom left;
   width: 340px;
 }
 aside {
-  float: right;
+  float: bottom right;
   width: 158px;
 }
