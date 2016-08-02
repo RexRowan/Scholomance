@@ -6,8 +6,9 @@ body {
   background-attachment: fixed;
 }
 
-div.button {
-    left: 50px;
-    
+div.relative {
+    position: relative;
+  top: -20px;
+  left: 20px;
    
 }
